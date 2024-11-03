@@ -6,12 +6,12 @@ Este projeto contém um programa cliente-servidor que utiliza Sockets e é um tr
 - o servidor e o cliente devessem estar em linguagens de programação diferentes;
 - houvesse suporte a múltiplas conexões;
 - o servidor deveria receber um arquivo, armazená-lo e enviar este arquivo caso fosse solicitado;
-- deveria haver, no cliente, um menu simples que desse as opções de enviar ou receber o arquivo do servidor
+- deveria haver, no cliente, um menu simples que desse as opções de enviar ou receber o arquivo do servidor.
 
 Agora, sobre os programas:
 
-- o programa servidor é escrito em Java e é composto por duas classes: a Main.java e a ClientHandler.java. As duas classes estavam dentro do mesmo pacote nomeado como "servidor".
-- o programa cliente é escrito em Python e é composto apenas pelo arquivo Cliente.py
+- o programa servidor é escrito em Java e é composto por duas classes: a Main.java e a ClientHandler.java. As duas classes estavam dentro do mesmo pacote nomeado como "servidor";
+- o programa cliente é escrito em Python e é composto apenas pelo arquivo Cliente.py.
 
 ## Como posso usar este projeto?
 
