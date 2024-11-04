@@ -1,5 +1,4 @@
-# Programa Cliente-Servidor com servidor em Java e cliente em Python
-
+# Programa Cliente-Servidor ${\textsf{\color{gray}(com servidor em Java e cliente em Python)}}$
 ## O projeto
 Este projeto contém um programa cliente-servidor que utiliza Sockets e é um trabalho na disciplina de Redes, no curso de Ciências da Computação na UFSCar Sorocaba. A proposta do projeto era de criar um programa cliente-servidor em que:
 
